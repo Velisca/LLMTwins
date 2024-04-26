@@ -31,5 +31,5 @@ Object foo(Object)
 - [Demo APIs on Youtube]((https://youtu.be/VLM60VusPl4))
 
 #### LLM Profile:
-- [Profile on GoogleSheet (Template)]([https://docs.google.com/spreadsheets/d/1Hp-0Ewsfumtb0qFZSgdeDoDWQvyPEhkzA9mDpp6Zxig/edit?usp=drive_link])
-- [Profile on GoogleSheet]([https://docs.google.com/spreadsheets/d/1vCNGeisCT_84FTZBoP1SitLa2YVOGApeIBH7QkfXqrA/edit?usp=sharing])
+- [Profile on GoogleSheet (Template)](https://docs.google.com/spreadsheets/d/1Hp-0Ewsfumtb0qFZSgdeDoDWQvyPEhkzA9mDpp6Zxig/edit?usp=drive_link)
+- [Profile on GoogleSheet](https://docs.google.com/spreadsheets/d/1vCNGeisCT_84FTZBoP1SitLa2YVOGApeIBH7QkfXqrA/edit?usp=sharing)
