@@ -9,28 +9,6 @@ LLMTwins is an innovative framework designed to streamline the development and d
 
 Whether you're looking to enhance operational efficiency, optimize product development, or create immersive simulation experiences, LLMTwins provides the tools and flexibility needed to harness the power of LLMs for digital twin technology. Start building smarter, more responsive digital twins with LLMTwins today.
 
-## Environment
-
-#### Environment Variables:
-- CREDENTIALS_FILE: Google service account private key JSON
-- GDRIVE_LLM_ROOT_PATH: LLM root path on Google Drive
-- GSHEET_FOR_TEMPLATE_OF_LLM_PROFILE: Template ID for Google sheet
-- OPENAI_API_KEY (Optional): OpenAI API Key
-
-#### How to resister environment content:
-- [Hown to resister environment content](https://towningtek.github.io/LLMTwins/)
-
-## Installation
-```bash=
-pip3 install -r requirements.txt
-```
-
-## Run
-```bash=
-source env/bin/activate
-uvicorn server:app --host 0.0.0.0 --port 8000 --reload
-```
-
 ## Procedure
 
 #### Google Sheet:
@@ -53,5 +31,5 @@ Object foo(Object)
 - [Demo APIs on Youtube]((https://youtu.be/VLM60VusPl4))
 
 #### LLM Profile:
-- [Profile on GoogleSheet (Template)](https://docs.google.com/spreadsheets/d/1sIHUNWrziA82znQW9X6zuI9F163pS_XmqzejPyY-gg8/edit?usp=sharing)
-- [Profile on GoogleSheet](https://docs.google.com/spreadsheets/d/10QVQ7MH9GKMDQv6dEr_6qGA3LHYLyXOgWTvM6GKzuK4/edit?usp=sharing)
+- [Profile on GoogleSheet (Template)]([https://docs.google.com/spreadsheets/d/1Hp-0Ewsfumtb0qFZSgdeDoDWQvyPEhkzA9mDpp6Zxig/edit?usp=drive_link])
+- [Profile on GoogleSheet]([https://docs.google.com/spreadsheets/d/1vCNGeisCT_84FTZBoP1SitLa2YVOGApeIBH7QkfXqrA/edit?usp=sharing])
